@@ -1,7 +1,12 @@
-This is a wall of sample text by RyanTheTide for YouTube!!
+       
+	   <+----------------------------------------------------------------+>
+	   | This is a wall of sample text by RyanTheTide#0001 for YouTube!!  |
+       |    Feel free to try re-execute this code again by pressing 1     |
+       |                 or visit my website by pressing 2                |
+       |                                                                  |
+	   |                          exit with 3                             |
+	   |__________________________________________________________________|
+	   
+Edit: 1 <4:29AM-3/5/20-AEST>
 
-
-                       As you can see spacing and custom formating works!!
-					   ||||||||| ------------------------------- |||||||||
-					   
-					   Edit: 1
+Edit: 2 <4:33AM-3/5/20-AEST>
