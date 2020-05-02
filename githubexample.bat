@@ -12,7 +12,7 @@ powershell "Invoke-RestMethod https://raw.githubusercontent.com/RyanTheTide/Dyna
 echo.
 
 :options
-CHOICE /N /C:123 /M "GitExample: "
+CHOICE /N /C:123 /M "GitHubExample: "
 IF ERRORLEVEL ==3 GOTO end
 IF ERRORLEVEL ==2 GOTO site
 IF ERRORLEVEL ==1 GOTO main
