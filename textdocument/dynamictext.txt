@@ -1,13 +1,11 @@
        
 	   <+----------------------------------------------------------------+>
 	   | This is a wall of sample text by RyanTheTide#0001 for YouTube!!  |
-       |    Feel free to try re-execute this code again by pressing 1     |
-       |                 or visit my website by pressing 2                |
-       |                                                                  |
-	   |                          exit with 3                             |
+           |    Feel free to try re-execute this code again by pressing 1     |
+           |                 or visit my website by pressing 2                |
+           |                          exit with 3                             |
+	   |                                                                  |
 	   |__________________________________________________________________|
-	   
-
 	   
 Edit: 1 <4:29AM-3/5/20-AEST>
 
