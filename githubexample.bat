@@ -15,10 +15,10 @@ goto options
 echo=-------------------------
 echo=I Hope The Code Suffices!
 echo=-------------------------
-CHOICE /N /C:12 /M "GitExample: "
-IF ERRORLEVEL ==3 GOTO main
+CHOICE /N /C:123 /M "GitExample: "
+IF ERRORLEVEL ==1 GOTO main
 IF ERRORLEVEL ==2 GOTO site
-IF ERRORLEVEL ==1 GOTO end
+IF ERRORLEVEL ==3 GOTO end
 goto end
 
 :site
